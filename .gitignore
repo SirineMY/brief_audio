@@ -1,5 +1,7 @@
 # Ignore Data folder
 Data/
+Data_bb/
+car-truck-sirine/
 
 # Ignore notebook side files
 notebook_audio/.ipynb_checkpoints
